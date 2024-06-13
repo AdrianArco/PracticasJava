@@ -1,0 +1,15 @@
+E:\Git\Concesionario\src\main\java\com\adardo\concesionario\exceptions\IllegalOrphanException.java
+E:\Git\Concesionario\src\main\java\com\adardo\concesionario\exceptions\NonexistentEntityException.java
+E:\Git\Concesionario\src\main\java\com\adardo\concesionario\persistencia\AutomovilJpaController.java
+E:\Git\Concesionario\src\main\java\com\adardo\concesionario\persistencia\exceptions\NonexistentEntityException.java
+E:\Git\Concesionario\src\main\java\com\adardo\concesionario\exceptions\PreexistingEntityException.java
+E:\Git\Concesionario\src\main\java\com\adardo\concesionario\persistencia\ControladoraPersis.java
+E:\Git\Concesionario\src\main\java\com\adardo\concesionario\igu\Inventario.java
+E:\Git\Concesionario\src\main\java\com\adardo\concesionario\igu\AltaVehiculo.java
+E:\Git\Concesionario\src\main\java\com\adardo\concesionario\igu\ModificarDatos.java
+E:\Git\Concesionario\src\main\java\com\adardo\concesionario\Concesionario.java
+E:\Git\Concesionario\src\main\java\com\adardo\concesionario\persistencia\exceptions\PreexistingEntityException.java
+E:\Git\Concesionario\src\main\java\com\adardo\concesionario\igu\Principal.java
+E:\Git\Concesionario\src\main\java\com\adardo\concesionario\persistencia\exceptions\IllegalOrphanException.java
+E:\Git\Concesionario\src\main\java\com\adardo\concesionario\logica\Controladora.java
+E:\Git\Concesionario\src\main\java\com\adardo\concesionario\logica\Automovil.java

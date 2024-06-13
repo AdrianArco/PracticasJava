@@ -1,0 +1,184 @@
+
+
+Version:	3.50
+CmdLine:	C:\Users\adria\Documents\NetBeansProjects\PeluqueriaCanina\exe\originar-PeluqueriaCanina.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\adria\Documents\NetBeansProjects\PeluqueriaCanina\exe\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.017.000
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\iCLS\;C:\Program Files\Intel\Intel(R) Management Engine Components\iCLS\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\AutoFirmaJA\AutoFirmaJA;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\AutoFirma\AutoFirma;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files (x86)\BaseX\bin;C:\Program Files\Cloudflare\Cloudflare WARP\;C:\Program Files\PuTTY\;C:\Program Files\Git\cmd;C:\Users\adria\AppData\Local\Microsoft\WindowsApps;;C:\Users\adria\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\Java\jdk-22\bin
+JRE paths:	;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\iCLS\;C:\Program Files\Intel\Intel(R) Management Engine Components\iCLS\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\AutoFirmaJA\AutoFirmaJA;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\AutoFirma\AutoFirma;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files (x86)\BaseX\bin;C:\Program Files\Cloudflare\Cloudflare WARP\;C:\Program Files\PuTTY\;C:\Program Files\Git\cmd;C:\Users\adria\AppData\Local\Microsoft\WindowsApps;;C:\Users\adria\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\Java\jdk-22\bin
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\iCLS\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Intel\Intel(R) Management Engine Components\iCLS\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\system32\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\dotnet\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\AutoFirmaJA\AutoFirmaJA\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\AutoFirma\AutoFirma\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Intel\Intel(R) Management Engine Components\DAL\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Intel\Intel(R) Management Engine Components\IPT\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Intel\WiFi\bin\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Common Files\Intel\WirelessCommon\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Docker\Docker\resources\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\BaseX\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Cloudflare\Cloudflare WARP\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\PuTTY\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Git\cmd\bin\javaw.exe (not found)
+Check launcher:	C:\Users\adria\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Users\adria\AppData\Local\Programs\Microsoft VS Code\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-22\bin\javaw.exe (OK)
+Version string: 1.022.000_001 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-22\bin\javaw.exe
+Launcher args:	-jar "C:\Users\adria\Documents\NetBeansProjects\PeluqueriaCanina\exe\originar-PeluqueriaCanina.exe"
+Args length:	99/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\adria\Documents\NetBeansProjects\PeluqueriaCanina\exe\originar-PeluqueriaCanina.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\adria\Documents\NetBeansProjects\PeluqueriaCanina\exe\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.017.000
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\iCLS\;C:\Program Files\Intel\Intel(R) Management Engine Components\iCLS\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\AutoFirmaJA\AutoFirmaJA;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\AutoFirma\AutoFirma;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files (x86)\BaseX\bin;C:\Program Files\Cloudflare\Cloudflare WARP\;C:\Program Files\PuTTY\;C:\Program Files\Git\cmd;C:\Users\adria\AppData\Local\Microsoft\WindowsApps;;C:\Users\adria\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\Java\jdk-22\bin
+JRE paths:	;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\iCLS\;C:\Program Files\Intel\Intel(R) Management Engine Components\iCLS\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\AutoFirmaJA\AutoFirmaJA;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\AutoFirma\AutoFirma;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files (x86)\BaseX\bin;C:\Program Files\Cloudflare\Cloudflare WARP\;C:\Program Files\PuTTY\;C:\Program Files\Git\cmd;C:\Users\adria\AppData\Local\Microsoft\WindowsApps;;C:\Users\adria\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\Java\jdk-22\bin
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\iCLS\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Intel\Intel(R) Management Engine Components\iCLS\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\system32\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\dotnet\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\AutoFirmaJA\AutoFirmaJA\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\AutoFirma\AutoFirma\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Intel\Intel(R) Management Engine Components\DAL\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Intel\Intel(R) Management Engine Components\IPT\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Intel\WiFi\bin\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Common Files\Intel\WirelessCommon\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Docker\Docker\resources\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\BaseX\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Cloudflare\Cloudflare WARP\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\PuTTY\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Git\cmd\bin\javaw.exe (not found)
+Check launcher:	C:\Users\adria\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Users\adria\AppData\Local\Programs\Microsoft VS Code\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-22\bin\javaw.exe (OK)
+Version string: 1.022.000_001 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-22\bin\javaw.exe
+Launcher args:	-jar "C:\Users\adria\Documents\NetBeansProjects\PeluqueriaCanina\exe\originar-PeluqueriaCanina.exe"
+Args length:	99/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\adria\Documents\NetBeansProjects\PeluqueriaCanina\exe\originar-PeluqueriaCanina.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\adria\Documents\NetBeansProjects\PeluqueriaCanina\exe\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.017.000
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\iCLS\;C:\Program Files\Intel\Intel(R) Management Engine Components\iCLS\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\AutoFirmaJA\AutoFirmaJA;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\AutoFirma\AutoFirma;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files (x86)\BaseX\bin;C:\Program Files\Cloudflare\Cloudflare WARP\;C:\Program Files\PuTTY\;C:\Program Files\Git\cmd;C:\Users\adria\AppData\Local\Microsoft\WindowsApps;;C:\Users\adria\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\Java\jdk-22\bin
+JRE paths:	;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\iCLS\;C:\Program Files\Intel\Intel(R) Management Engine Components\iCLS\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\AutoFirmaJA\AutoFirmaJA;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\AutoFirma\AutoFirma;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files (x86)\BaseX\bin;C:\Program Files\Cloudflare\Cloudflare WARP\;C:\Program Files\PuTTY\;C:\Program Files\Git\cmd;C:\Users\adria\AppData\Local\Microsoft\WindowsApps;;C:\Users\adria\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\Java\jdk-22\bin
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\iCLS\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Intel\Intel(R) Management Engine Components\iCLS\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\system32\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\dotnet\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\AutoFirmaJA\AutoFirmaJA\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\AutoFirma\AutoFirma\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Intel\Intel(R) Management Engine Components\DAL\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Intel\Intel(R) Management Engine Components\IPT\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Intel\WiFi\bin\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Common Files\Intel\WirelessCommon\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Docker\Docker\resources\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\BaseX\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Cloudflare\Cloudflare WARP\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\PuTTY\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Git\cmd\bin\javaw.exe (not found)
+Check launcher:	C:\Users\adria\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Users\adria\AppData\Local\Programs\Microsoft VS Code\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-22\bin\javaw.exe (OK)
+Version string: 1.022.000_001 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-22\bin\javaw.exe
+Launcher args:	-jar "C:\Users\adria\Documents\NetBeansProjects\PeluqueriaCanina\exe\originar-PeluqueriaCanina.exe"
+Args length:	99/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\adria\Documents\NetBeansProjects\PeluqueriaCanina\exe\originar-PeluqueriaCanina.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\adria\Documents\NetBeansProjects\PeluqueriaCanina\exe\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.017.000
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\iCLS\;C:\Program Files\Intel\Intel(R) Management Engine Components\iCLS\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\AutoFirmaJA\AutoFirmaJA;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\AutoFirma\AutoFirma;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files (x86)\BaseX\bin;C:\Program Files\Cloudflare\Cloudflare WARP\;C:\Program Files\PuTTY\;C:\Program Files\Git\cmd;C:\Users\adria\AppData\Local\Microsoft\WindowsApps;;C:\Users\adria\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\Java\jdk-22\bin
+JRE paths:	;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\iCLS\;C:\Program Files\Intel\Intel(R) Management Engine Components\iCLS\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\AutoFirmaJA\AutoFirmaJA;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\AutoFirma\AutoFirma;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files (x86)\BaseX\bin;C:\Program Files\Cloudflare\Cloudflare WARP\;C:\Program Files\PuTTY\;C:\Program Files\Git\cmd;C:\Users\adria\AppData\Local\Microsoft\WindowsApps;;C:\Users\adria\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\Java\jdk-22\bin
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\iCLS\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Intel\Intel(R) Management Engine Components\iCLS\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\system32\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\dotnet\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\AutoFirmaJA\AutoFirmaJA\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\AutoFirma\AutoFirma\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Intel\Intel(R) Management Engine Components\DAL\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Intel\Intel(R) Management Engine Components\IPT\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Intel\WiFi\bin\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Common Files\Intel\WirelessCommon\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Docker\Docker\resources\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\BaseX\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Cloudflare\Cloudflare WARP\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\PuTTY\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Git\cmd\bin\javaw.exe (not found)
+Check launcher:	C:\Users\adria\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Users\adria\AppData\Local\Programs\Microsoft VS Code\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-22\bin\javaw.exe (OK)
+Version string: 1.022.000_001 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-22\bin\javaw.exe
+Launcher args:	-jar "C:\Users\adria\Documents\NetBeansProjects\PeluqueriaCanina\exe\originar-PeluqueriaCanina.exe"
+Args length:	99/32768 chars
+Exit code:	0
